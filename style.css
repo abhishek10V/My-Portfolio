@@ -1,0 +1,109 @@
+#header {
+  background-color: #404258;
+}
+
+.image {
+    border-radius: 50%;
+    border: 10px black solid;
+    height: 100px;
+   
+}
+#Intro{
+    background: #404258;
+   
+}
+
+.info > h1 {
+    color: #EEE2DE;
+    font-family: 'Exo 2', sans-serif;
+}
+.lead{
+    color: aliceblue;
+    
+}
+ .welcome{
+    color: aliceblue;
+    font-size: 50px;
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Poiret One', cursive;
+ }   
+
+ #profile, #education{
+    background: #F1F6F9;
+ }
+
+ .prof {
+    text-align: left;
+ }
+ .heading > h2 {
+   font-family: 'Ysabeau SC', sans-serif;
+ font-size: 50px;
+ }
+ .profileDetail > p{
+   font-size: 25px;
+   font-family: 'Titillium Web', sans-serif;
+ }
+
+  .degree{
+    font-family: 'Exo 2', sans-serif;
+font-family: 'Poiret One', cursive;
+font-family: 'Raleway', sans-serif;
+font-family: 'Ysabeau SC', sans-serif;
+ }
+ .college_names{
+   font-size: 18px;
+ }
+
+ .edu1 > p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 0px;
+ }
+ #skills {
+  background-image: -webkit-linear-gradient(65deg, #27374D 50%, #526D82 50%);
+ }
+
+ #projects {
+  background-image: -webkit-linear-gradient(65deg, #9DB2BF 50%, #DDE6ED 50%) ;
+ }
+ #projects > .heading > h1{
+  color: #F1F6F9;
+  font-family: 'Tektur', cursive;
+  font-size: 50px;
+  
+ }
+.projectImage {
+  border-radius: 10%;
+  box-shadow: 10px 10px;
+ }
+.projectHeading{
+  font-family: 'Ysabeau SC', sans-serif;
+  text-shadow: 2px 2px 4px #404258;
+  font-size: 50px;
+}
+
+.projectBody {
+  font-family: 'Lugrasimo', cursive;
+  color: #6D5D6E;
+  font-weight: 500px;
+  font-size: 35px;
+}
+
+ .skills{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+ }
+ .card{
+  border: 10px solid black;
+  box-shadow: 10px 10px
+ }
+ #footer{
+   background: #27374D;
+  
+ }
+ span{
+   color: aliceblue;
+ }
+ #ending{
+  background-color: #27374D;
+ }
